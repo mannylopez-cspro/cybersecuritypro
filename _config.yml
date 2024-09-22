@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: bgilbert@meritamerica.org
-url: https://coachbeau.github.io/cyber-base
+title: Manny Lopez
+email: mannylopez.cs.pro@gmail.com
+url: https://mannylopez-cspro.github.io/cybersecuritypro
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+skills: "Cybersecurity - GRC - Senior Analyst - Ethical Hacker"
+meta_author: Manny Lopez
 
 # Google webmaster tools
 google_verify:
@@ -32,25 +32,24 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
-  location: Location
+  copyright: Manny Lopez
+  location: Fort Lauderdale
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/mannylopezsbba/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://mannylopez-cspro.github.io/cybersecuritypro/
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:bgilbert@meritamerica.org
-
+  email-url: mailto:mannylopez.cs.pro@gmail.com
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Fort Lauderdale, Florida
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
